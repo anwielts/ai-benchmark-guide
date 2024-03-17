@@ -11,6 +11,14 @@ Detailed guide on what AI benchmark metrics mean and how to use these to find th
 
 ## Usage guide by use case
 
+### Math
+
+#### Solving textual math problems
+
+- GSM8K ([Detailed explanation](detailed_explanations/GSM8K.md), [arXiv](https://arxiv.org/abs/2110.14168))
+
+### Computer science
+
 TBD
 
 ## Diclaimer
